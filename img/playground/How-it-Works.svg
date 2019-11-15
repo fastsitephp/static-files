@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600px" height="1490px" viewBox="0 0 600 1490" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>How-it-Works</title>
+    <desc>Created with Sketch.</desc>
+    <g id="How-it-Works" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="600" height="1490"></rect>
+        <g id="Group-2" transform="translate(103.000000, 1180.000000)">
+            <rect id="Rectangle" stroke="#888888" stroke-width="2" fill="#FFFFFF" x="192" y="16" width="118" height="48"></rect>
+            <text id="User-Site-1" fill="#444444" font-family="ArialMT, Arial" font-size="18" font-weight="normal">
+                <tspan x="204" y="46">User Site 1</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#888888" stroke-width="2" fill="#FFFFFF" x="192" y="107" width="118" height="48"></rect>
+            <text id="User-Site-2" fill="#444444" font-family="ArialMT, Arial" font-size="18" font-weight="normal">
+                <tspan x="204" y="137">User Site 2</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#888888" stroke-width="2" fill="#FFFFFF" x="192" y="198" width="118" height="48"></rect>
+            <text id="User-Site-3" fill="#444444" font-family="ArialMT, Arial" font-size="18" font-weight="normal">
+                <tspan x="204" y="228">User Site 3</tspan>
+            </text>
+            <path d="M61,131 L321,129.5" id="Line-3" stroke="#888888" stroke-width="4" stroke-linecap="square" transform="translate(191.000000, 130.500000) rotate(90.000000) translate(-191.000000, -130.500000) "></path>
+            <path id="Line" d="M178.199305,216.243074 L85.6454291,166.406371 L86.5936287,164.645429 L179.147504,214.482131 L181.992103,209.199305 L191,222 L175.354706,221.5259 L178.199305,216.243074 Z" fill="#000000" fill-rule="nonzero"></path>
+            <path id="Line" d="M177,137 L90,137 L90,135 L177,135 L177,129 L191,136 L177,143 L177,137 Z" fill="#000000" fill-rule="nonzero"></path>
+            <path id="Line" d="M179.156473,57.5319902 L90.5952435,105.355054 L89.6449457,103.595244 L178.206176,55.7721794 L175.355282,50.492747 L191,50 L182.007367,62.8114226 L179.156473,57.5319902 Z" fill="#000000" fill-rule="nonzero"></path>
+            <rect id="Rectangle" stroke="#000000" stroke-width="2" fill="#FFFFFF" x="1" y="86" width="100" height="100"></rect>
+            <text id="Admin-Web-Services" fill="#000000" font-family="ArialMT, Arial" font-size="18" font-weight="normal">
+                <tspan x="16" y="122">Admin </tspan>
+                <tspan x="16" y="142">Web </tspan>
+                <tspan x="16" y="162">Services</tspan>
+            </text>
+        </g>
+        <g id="Group" transform="translate(20.000000, 473.500000)">
+            <path id="Line" d="M181.222824,54.9918005 L116.77277,101.395839 L115.604161,99.7727704 L180.054214,53.3687318 L176.548386,48.4995258 L192,46 L184.728652,59.8610066 L181.222824,54.9918005 Z" fill="#000000" fill-rule="nonzero"></path>
+            <path id="Line-2" d="M174.829851,79.0717117 L209.235432,54.6055209 L210.394479,56.2354315 L175.988898,80.7016223 L179.466041,85.5913543 L164,88 L171.352708,74.1819797 L174.829851,79.0717117 Z" fill="#000000" fill-rule="nonzero"></path>
+            <rect id="Rectangle" stroke="#000000" stroke-width="2" fill="#FFFFFF" x="1" y="12" width="90" height="90"></rect>
+            <text id="Main-Site-Server" fill="#000000" font-family="ArialMT, Arial" font-size="18" font-weight="normal">
+                <tspan x="19" y="38">Main</tspan>
+                <tspan x="19" y="58">Site </tspan>
+                <tspan x="19" y="78">Server</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#000000" stroke-width="2" fill="#FFFFFF" x="52" y="89" width="143" height="77"></rect>
+            <text id="Playground-UI-HTML/J" fill="#000000" font-family="ArialMT, Arial" font-size="18" font-weight="normal">
+                <tspan x="66" y="124">Playground UI</tspan>
+                <tspan x="66" y="144">HTML/JS</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#000000" stroke-width="2" fill="#FFFFFF" x="193" y="1" width="146" height="67"></rect>
+            <text id="Playground-Site-/-Se" fill="#000000" font-family="ArialMT, Arial" font-size="18" font-weight="normal">
+                <tspan x="217" y="29">Playground </tspan>
+                <tspan x="217" y="49">Site / Server</tspan>
+            </text>
+        </g>
+        <text id="If-the-Playground-Se" fill="#000000" font-family="ArialMT, Arial" font-size="16" font-weight="normal">
+            <tspan x="394" y="615.5">If the Playground Server </tspan>
+            <tspan x="394" y="632.5">goes down the Main Site </tspan>
+            <tspan x="394" y="649.5">still stays up.</tspan>
+        </text>
+        <text id="The-Main-Site-and-Pa" fill="#000000" font-family="ArialMT, Arial" font-size="16" font-weight="normal">
+            <tspan x="394" y="446">The Main Site and </tspan>
+            <tspan x="394" y="463">Payground Site are on </tspan>
+            <tspan x="394" y="480">Seperate servers.</tspan>
+        </text>
+        <text id="The-Main-site-hosts" fill="#000000" font-family="ArialMT, Arial" font-size="16" font-weight="normal">
+            <tspan x="394" y="513">The Main site hosts the </tspan>
+            <tspan x="394" y="530">User Interface (UI) which </tspan>
+            <tspan x="394" y="547">uses JSON Web </tspan>
+            <tspan x="394" y="564">Services from the </tspan>
+            <tspan x="394" y="581">Playground Server.</tspan>
+        </text>
+        <path d="M20,685.5 L580,685.5" id="Line-3" stroke="#000000" stroke-width="4" stroke-linecap="square"></path>
+        <path d="M20,401.5 L580,401.5" id="Line-3" stroke="#000000" stroke-width="4" stroke-linecap="square"></path>
+        <path d="M20,30 L580,30" id="Line-3" stroke="#000000" stroke-width="4" stroke-linecap="square"></path>
+        <path d="M20,1109.5 L580,1109.5" id="Line-3" stroke="#000000" stroke-width="4" stroke-linecap="square"></path>
+        <text id="Playground-Server" fill="#000000" font-family="Arial-BoldMT, Arial" font-size="24" font-weight="bold">
+            <tspan x="20" y="728.5">Playground Server</tspan>
+        </text>
+        <text id="Playground-Server-Fi" fill="#000000" font-family="Arial-BoldMT, Arial" font-size="24" font-weight="bold">
+            <tspan x="23" y="1146">Playground Server File Structure</tspan>
+        </text>
+        <text id="Security-Concerns" fill="#000000" font-family="Arial-BoldMT, Arial" font-size="24" font-weight="bold">
+            <tspan x="23" y="71">Security Concerns</tspan>
+        </text>
+        <text id="Playground-Setup" fill="#000000" font-family="Arial-BoldMT, Arial" font-size="24" font-weight="bold">
+            <tspan x="23" y="440">Playground Setup</tspan>
+        </text>
+        <text id="Linux-Ubuntu-using-A" fill="#000000" font-family="ArialMT, Arial" font-size="16" font-weight="normal">
+            <tspan x="44" y="761.5">Linux Ubuntu using Apache and a Custom Build of PHP; however a </tspan>
+            <tspan x="44" y="778.5">Windows Server using IIS and the same custom build of PHP would also </tspan>
+            <tspan x="44" y="795.5">work.</tspan>
+        </text>
+        <circle id="Oval" fill="#000000" cx="24" cy="756.5" r="4"></circle>
+        <text id="PHP-files-are-execut" fill="#000000" font-family="ArialMT, Arial" font-size="16" font-weight="normal">
+            <tspan x="47" y="106">PHP files are executed on the server; and using this site anyone in the </tspan>
+            <tspan x="47" y="123">world has the ability to create PHP files on the server.</tspan>
+        </text>
+        <circle id="Oval" fill="#000000" cx="27" cy="101" r="4"></circle>
+        <text id="If-allowed-a-single" fill="#000000" font-family="ArialMT, Arial" font-size="16" font-weight="normal">
+            <tspan x="47" y="156">If allowed a single user can easily fill up the server disk space, either </tspan>
+            <tspan x="47" y="173">by accident or on purpose. To prevent this, users cannot write files </tspan>
+            <tspan x="47" y="190">using PHP code.</tspan>
+        </text>
+        <circle id="Oval" fill="#000000" cx="27" cy="153" r="4"></circle>
+        <text id="If-allowed-a-single" fill="#000000" font-family="ArialMT, Arial" font-size="16" font-weight="normal">
+            <tspan x="46" y="223">If allowed a single user could use the server for malicious purposes </tspan>
+            <tspan x="46" y="240">such as sending spam email anonymously. To prevent this, PHP </tspan>
+            <tspan x="46" y="257">cannot make network calls based on config settings.</tspan>
+        </text>
+        <circle id="Oval" fill="#000000" cx="27" cy="219" r="4"></circle>
+        <text id="Users-can-define-ser" fill="#000000" font-family="ArialMT, Arial" font-size="16" font-weight="normal">
+            <tspan x="46" y="290">Users can define server side code so a single user can define a route </tspan>
+            <tspan x="46" y="307">that uses High CPU, High Memory, or other resources. Limits are in </tspan>
+            <tspan x="46" y="324">place; however it is still possible for a single user to use significant </tspan>
+            <tspan x="46" y="341">resources or take down the server with a Denial of Service (DoS) </tspan>
+            <tspan x="46" y="358">attack. As long as no sophisticated user tries to take down the server it </tspan>
+            <tspan x="46" y="375">should stay up using the limits.</tspan>
+        </text>
+        <circle id="Oval" fill="#000000" cx="27" cy="286" r="4"></circle>
+        <text id="Many-PHP-functions-a" fill="#000000" font-family="ArialMT, Arial" font-size="16" font-weight="normal">
+            <tspan x="44" y="828.5">Many PHP functions are disabled to prevent users from making network </tspan>
+            <tspan x="44" y="845.5">calls, writing files on the server, changing settings, and other tasks.</tspan>
+        </text>
+        <circle id="Oval" fill="#000000" cx="24" cy="824.5" r="4"></circle>
+        <text id="The-custom-build-of" fill="#000000" font-family="ArialMT, Arial" font-size="16" font-weight="normal">
+            <tspan x="44" y="876.5">The custom build of PHP allows the main web services to write and </tspan>
+            <tspan x="44" y="893.5">modify files while preventing user sites from writing files.</tspan>
+        </text>
+        <circle id="Oval" fill="#000000" cx="24" cy="872.5" r="4"></circle>
+        <text id="Script-execution-tim" fill="#000000" font-family="ArialMT, Arial" font-size="16" font-weight="normal">
+            <tspan x="44" y="924.5">Script execution time and memory limits are in place to prevent a single </tspan>
+            <tspan x="44" y="941.5">user from using to many server resources.</tspan>
+        </text>
+        <circle id="Oval" fill="#000000" cx="24" cy="920.5" r="4"></circle>
+        <text id="Each-user-site-has-a" fill="#000000" font-family="ArialMT, Arial" font-size="16" font-weight="normal">
+            <tspan x="44" y="972.5">Each user site has a unique 20 character hex string, which along with the </tspan>
+            <tspan x="44" y="989.5">expiration time is signed and verified using HMAC/SHA-256 during </tspan>
+            <tspan x="44" y="1006.5">Authentication.</tspan>
+        </text>
+        <text id="The-Admin-Services-o" fill="#000000" font-family="ArialMT, Arial" font-size="16" font-weight="normal">
+            <tspan x="23" y="1186">The Admin Services on the </tspan>
+            <tspan x="23" y="1203">Playground Server creates and </tspan>
+            <tspan x="23" y="1220">maintains Users Sites. Admin </tspan>
+            <tspan x="23" y="1237">Services have full read and write </tspan>
+            <tspan x="23" y="1254">access.</tspan>
+        </text>
+        <text id="Neither-the-Admin-Si" fill="#000000" font-family="ArialMT, Arial" font-size="16" font-weight="normal">
+            <tspan x="24" y="1401">Neither the Admin Site nor </tspan>
+            <tspan x="24" y="1418">the User Sites can make </tspan>
+            <tspan x="24" y="1435">network calls.</tspan>
+        </text>
+        <text id="User-sites-have-only" fill="#444444" font-family="ArialMT, Arial" font-size="16" font-weight="normal">
+            <tspan x="439" y="1234">User sites have </tspan>
+            <tspan x="439" y="1251">only file read </tspan>
+            <tspan x="439" y="1268">access in specific </tspan>
+            <tspan x="439" y="1285">directories and </tspan>
+            <tspan x="439" y="1302">cannot write files.</tspan>
+        </text>
+        <text id="Users-can-only-modif" fill="#444444" font-family="ArialMT, Arial" font-size="16" font-weight="normal">
+            <tspan x="439" y="1341">Users can only </tspan>
+            <tspan x="439" y="1358">modify files </tspan>
+            <tspan x="439" y="1375">through the admin </tspan>
+            <tspan x="439" y="1392">web services.</tspan>
+        </text>
+        <circle id="Oval" fill="#000000" cx="24" cy="968.5" r="4"></circle>
+        <text id="All-related-code-(PH" fill="#000000" font-family="ArialMT, Arial" font-size="16" font-weight="normal">
+            <tspan x="44" y="1037.5">All related code (PHP and Client-side JavaScript) along with PHP Build </tspan>
+            <tspan x="44" y="1054.5">Changes (C Language) are small in size which makes for easy auditing.</tspan>
+        </text>
+        <circle id="Oval" fill="#000000" cx="24" cy="1033.5" r="4"></circle>
+        <text id="See-Full-Server-Setu" fill="#000000" font-family="ArialMT, Arial" font-size="16" font-weight="normal">
+            <tspan x="44" y="1087">See Full Server Setup in [docs/Playground Server Setup.txt].</tspan>
+        </text>
+        <circle id="Oval" fill="#000000" cx="24" cy="1082" r="4"></circle>
+        <path d="M20,1469 L580,1469" id="Line-3" stroke="#000000" stroke-width="4" stroke-linecap="square"></path>
+    </g>
+</svg>

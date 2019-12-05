@@ -37,9 +37,9 @@ Until workflow is decided on changes to the (*.sketch) file will not be accepted
 
 In case you are not familiar with Sketch it’s a widely used Mac-only Application for drawing User Interfaces and Web/App Graphics. It’s used for FastSitePHP to draw most of the SVG Graphics. Here are a few screenshots:
 
-![Sketch - Rocketship](https://fastsitephp.s3-us-west-1.amazonaws.com/img/screenshots/Sketch-Rocketship.png)
+![Sketch - Rocketship](https://raw.githubusercontent.com/fastsitephp/static-files/master/img/screenshots/Sketch-Rocketship.png)
 
-![Sketch - Icons](https://fastsitephp.s3-us-west-1.amazonaws.com/img/screenshots/Sketch-Icons.png)
+![Sketch - Icons](https://raw.githubusercontent.com/fastsitephp/static-files/master/img/screenshots/Sketch-Icons.png)
 
 ## :memo: License
 

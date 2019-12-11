@@ -4,7 +4,7 @@
 
 This repository contains document images and other files for FastSitePHP. Images are located here to keep the download of the main site and framework small. Images are uploaded from here to a CDN.
 
-* __FastSitePHP__: [https://www.fastsitephp.com/en/](https://www.fastsitephp.com/en/)
+* __FastSitePHP__: [https://www.fastsitephp.com/](https://www.fastsitephp.com/)
 * __CDN (AWS CloudFront)__: [https://dydn9njgevbmp.cloudfront.net/](https://dydn9njgevbmp.cloudfront.net/)
 * __S3__: [http://fastsitephp.s3-website-us-west-1.amazonaws.com/](http://fastsitephp.s3-website-us-west-1.amazonaws.com/)
 

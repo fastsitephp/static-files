@@ -1,4 +1,4 @@
-# 🌟 FastSitePHP Static Files
+# :star2: FastSitePHP Static Files
 
 **Thanks for visiting!** 🌠👍
 
@@ -9,36 +9,26 @@
 <table>
   <tbody>
     <tr>
-      <td>en</td>
-      <td>English</td>
-      <td>This repository contains document images and other files for FastSitePHP. Images are located here to keep the download of the main site and framework small. Images are uploaded from here to a CDN.</td>
+      <td><strong>en - English</strong><br> This repository contains document images and other files for FastSitePHP. Images are located here to keep the download of the main site and framework small. Images are uploaded from here to a CDN.</td>
     </tr>
     <tr>
-      <td>ja</td>
-      <td lang="zn-CH">中文 (简体)</td>
-      <td lang="zn-CH">该存储库包含用于FastSitePHP的文档图像和其他文件。 图片位于此处，以减少主要站点和框架的下载量。 图像从此处上传到CDN。</td>
+      <td lang="zn-CH"><strong>zh-CN - 中文 (简体)</strong><br> 该存储库包含用于FastSitePHP的文档图像和其他文件。 图片位于此处，以减少主要站点和框架的下载量。 图像从此处上传到CDN。</td>
     </tr>
     <tr>
-      <td>es</td>
-      <td lang="es">Español</td>
-      <td lang="es">Este repositorio contiene imágenes de documentos y otros archivos para FastSitePHP. Las imágenes se encuentran aquí para mantener pequeña la descarga del sitio principal y el marco. Las imágenes se cargan desde aquí a un CDN.</td>
+      <td lang="es"><strong>es - Español</strong><br> Este repositorio contiene imágenes de documentos y otros archivos para FastSitePHP. Las imágenes se encuentran aquí para mantener pequeña la descarga del sitio principal y el marco. Las imágenes se cargan desde aquí a un CDN.</td>
     </tr>
     <tr>
-      <td>pt-BR</td>
-      <td lang="pt-BR">Português (do Brasil)</td>
-      <td lang="pt-BR">Este repositório contém imagens de documentos e outros arquivos para o FastSitePHP. As imagens estão localizadas aqui para manter pequeno o download do site principal e da estrutura. As imagens são carregadas daqui para uma CDN.</td>
+      <td lang="pt-BR"><strong>pt-BR - Português (do Brasil)</strong><br> Este repositório contém imagens de documentos e outros arquivos para o FastSitePHP. As imagens estão localizadas aqui para manter pequeno o download do site principal e da estrutura. As imagens são carregadas daqui para uma CDN.</td>
     </tr>
     <!--
     <tr>
-      <td>{iso}</td>
-      <td>{lang}</td>
-      <td>{content}</td>
+      <td lang="{iso}"><strong>{iso} - {lang}</strong><br> {content}</td>
     </tr>
     -->
   </tbody>
 </table>
 
-## 🤝 Contributing
+## :handshake: Contributing
 
 When submitting changes rename and upload image files as a new file name with the date, rather than deleting a file. This allows older content to still reference the original file and prevents caching issues when using the CDN.
 
@@ -50,7 +40,7 @@ When submitting changes rename and upload image files as a new file name with th
 
 A suffix of [a, b, c, etc] can be added after the date when multiple version of the file are published on the same date. If changes are made on many files in a directory/folder simply upload a new directory [doc/test/v2].
 
-## 🚀 Sketch App Design File
+## :art: Sketch App Design File
 
 Workflow for the Sketch files (*.sketch) is not yet decided on. Changes will likely be published to the same file however git would treat is as binary so a cloud service needs to be setup in the future for design changes. Some possibilities:
 

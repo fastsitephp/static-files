@@ -1,4 +1,4 @@
-# :star2: FastSitePHP Static Files
+# 🌟 FastSitePHP Static Files
 
 **Thanks for visiting!** 🌠👍
 
@@ -28,7 +28,7 @@
   </tbody>
 </table>
 
-## :handshake: Contributing
+## 🤝 Contributing
 
 When submitting changes rename and upload image files as a new file name with the date, rather than deleting a file. This allows older content to still reference the original file and prevents caching issues when using the CDN.
 
@@ -40,7 +40,7 @@ When submitting changes rename and upload image files as a new file name with th
 
 A suffix of [a, b, c, etc] can be added after the date when multiple version of the file are published on the same date. If changes are made on many files in a directory/folder simply upload a new directory [doc/test/v2].
 
-## :art: Sketch App Design File
+## 🎨 Sketch App Design File
 
 Workflow for the Sketch files (*.sketch) is not yet decided on. Changes will likely be published to the same file however git would treat is as binary so a cloud service needs to be setup in the future for design changes. Some possibilities:
 
@@ -61,7 +61,7 @@ In case you are not familiar with Sketch it’s a widely used Mac-only Applicati
 
 ![Sketch - Icons](https://raw.githubusercontent.com/fastsitephp/static-files/master/img/screenshots/Sketch-Icons.png)
 
-## :memo: License
+## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
